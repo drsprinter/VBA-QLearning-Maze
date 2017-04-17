@@ -1,5 +1,5 @@
 Sub QlearnRunning()
-'
+'Copyright 2017 Keisuke Hata
 ' QlearnRunning Macro
 '
 Dim wall, episodeNum, tate, yoko, randNum, solveFlag, stepCnt, score, stepFlag, randNumE, actionControlTate, actionControlYoko, Qdirection, errorDirection, Qstep As Integer
